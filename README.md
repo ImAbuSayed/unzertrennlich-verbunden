@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/unzertrennlich-verbunden/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Unzertrennlich verbunden](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/unzertrennlich-verbunden/) |
+| **Get License** | [Obtain a Music License for Unzertrennlich verbunden](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/unzertrennlich-verbunden/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `a14b7c20b8cf1266b6cb7f6c514f749f43e4dc24a57b041de1c0f6262d39698d` |
 | **Timestamp** | June 28, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
